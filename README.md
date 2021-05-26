@@ -1,5 +1,7 @@
 # Netflix
 
+![netflix](https://github.com/shompoth/Netflix/blob/main/assets/screenshot-netflix.png)
+
 Ce projet est un clône de l'espace membre de Netflix.
 
 ## Fonctionnalités :
